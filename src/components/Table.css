@@ -1,0 +1,11 @@
+.table{
+    width: 100%;
+    text-align: center;
+}
+.grisclaro{
+    background-color: lightgray;
+}
+
+.grisoscuro{
+    background-color: darkgray;
+}
